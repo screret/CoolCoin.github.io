@@ -5,8 +5,8 @@
 - Trees
 - Lightposts
 - Cool Blobs
-- - with hats
-- - and items
+ - with hats
+ - and items
 - Objects
 
 1. Numbered
